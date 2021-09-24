@@ -1,0 +1,24 @@
+{
+  "name": "social-network-web-application",
+  "version": "1.0.0",
+  "description": "API for social network",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomhabt/social-network-web-application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomhabt/social-network-web-application/issues"
+  },
+  "homepage": "https://github.com/tomhabt/social-network-web-application#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.6"
+  }
+}
