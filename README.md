@@ -1,6 +1,6 @@
 # social-network-web-application
 
-1. Video demonstration for the typical user flow through the application (45 Min Long) Link: https://drive.google.com/file/d/1FfUm3GW1WR9Im2g93OZ567_LuU7HBIfd/view?usp=sharing
+1. Video demonstration for the typical user flow through the application (45 Min Long) Link: https://drive.google.com/file/d/1SSBTpfQR00aOIQUqQYRUN-PoPOv6cPov/view?usp=sharing
 
 
 2. Repository: https://github.com/tomhabt/social-network-web-application.git
