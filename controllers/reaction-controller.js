@@ -17,7 +17,7 @@ const reactionController = {
               res.status(404).json({ message: 'No thought found with this id!' });
               return;
             }
-            res.json(dbThoughtData);
+            res.json({message: 'Your reaction on the thought you have chosen is created successfully',dbThoughtData});
           })
           .catch(err => res.json(err));
     },
@@ -40,11 +40,10 @@ const reactionController = {
               res.status(404).json({ message: 'No  thought found with this id!' });
               return;
             }
-            res.json(dbThoughtData);
+            res.json({message: 'Your reaction has successfully been removed from the thought',dbThoughtData});
           })
           .catch(err => res.json(err));
-    },
-    
+    },  
 }
 
 module.exports = reactionController;

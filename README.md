@@ -1,6 +1,7 @@
 # social-network-web-application
 
-1. Video demonstration for the typical user flow through the application (Part 1) Link: 
+1. Video demonstration for the typical user flow through the application (45 Min Long) Link: https://drive.google.com/file/d/1FfUm3GW1WR9Im2g93OZ567_LuU7HBIfd/view?usp=sharing
+
 
 2. Repository: https://github.com/tomhabt/social-network-web-application.git
 
@@ -8,7 +9,7 @@
 
 MongoDB is a popular choice for many social networks due to its speed with large amounts of data and flexibility with unstructured data.  it’s important that to understand how to build and structure the API using the NoSql.
 
-This prpject is about building an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. This project will be a great asset when a user interface or front end the app is done in future development.
+This project is about building an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. This project will be a great asset when a user interface or front end the app is done in future development.
 
 In using NoSQL, websites can hanlde large amounts of UNSTRUCTURED data and for that MongoDB is the best handler. This API prject will successfully demonestrates teh CRUD operations for User of the future social app and successfuly runs the operations for posting thoughts, reaction as well as make friends to eachother among users.
 
